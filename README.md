@@ -27,7 +27,7 @@
 - 📫 How to reach me: [sherazahmed.cs@gmail.com](mailto:sherazahmed.cs@gmail.com.com?subject=[GitHub])
 
 ---
-
+<!-- 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -64,7 +64,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
 
 ---
 
