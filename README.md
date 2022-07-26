@@ -26,8 +26,9 @@
 - 🔭 I’m currently working on C# & JavaScript
 - 📫 How to reach me: [sherazahmed.cs@gmail.com](mailto:sherazahmed.cs@gmail.com.com?subject=[GitHub])
 
----
 <!-- 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
